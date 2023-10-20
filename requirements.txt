@@ -1,0 +1,7 @@
+streamlit 
+prophet 
+yfinance 
+plotly
+
+### local packages -
+-e . 

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small Stock Predicion System
+Home-page: https://github.com/shanukumar007/Stock-Prediction_system
+Author: shanukumar007
+Author-email: shanumehta007@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Stcok Prediction system
+
